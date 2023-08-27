@@ -1,0 +1,1 @@
+# force-remove-chrome-extensions
